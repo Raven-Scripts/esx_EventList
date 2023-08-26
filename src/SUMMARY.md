@@ -1,6 +1,6 @@
 # Summary
 
-[Introduction](../README.md)
+[Introduction](README.md)
 
 - [esx_accessories](resources/esx_accessories.md)
 - [esx_addonaccount](resources/esx_addonaccount.md)
