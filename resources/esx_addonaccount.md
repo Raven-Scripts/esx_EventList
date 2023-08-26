@@ -1,6 +1,7 @@
 # esx_addonaccount
 
-GitHub Repo: https://github.com/esx-framework/esx_addonaccount
+GitHub Repo: https://github.com/esx-framework/esx_addonaccount\
+Version: [26. July 2023](https://github.com/esx-framework/esx_addonaccount/commit/00b93c323702c3eaae58a927b4c6b097ea90ddbd)
 
 ## Client
     - NO EVENTS
